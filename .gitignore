@@ -1,0 +1,10 @@
+# Visual Studio Code files
+.vscode/
+
+# Build files and folders
+out/
+build/
+*.exe
+
+# Log files
+*.log
